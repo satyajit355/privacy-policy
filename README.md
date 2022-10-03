@@ -8,8 +8,9 @@ The Bot Collects User's Presence For Server Info CMD
 
 The Bot Collects Guild Member Activity Like Joining Leaving For Welcome System
 
-Owner and Data Controller
-Jogendranagar,Agartala,Tripura,India
+# Owner and Data Controller
+
+Address:- Jogendranagar,Agartala,Tripura,India
 
 Owner contact email: discordtechop69@gmail.com 
 
